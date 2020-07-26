@@ -19,6 +19,8 @@
 - how to use
     - add dependencies selenium-java, selenium-chrome-driver
     - install [ChromeDriver](https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver)
+    - WebDriver request and assert result
+    - screenshot and generate report by cucumber
     
     
 ### References
